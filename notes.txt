@@ -1,2 +1,3 @@
 CS432 Git and GitHub Extra Credit
 This file is for practicing Git commands. ~ ~ ~ ~
+This line was added locally using VS Code.
